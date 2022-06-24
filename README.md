@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yen
 - 👀 I’m interested in NLP, Speech Recognition, and 🐃
-- 🌱 I’m currently learning COmputational Linguistics
+- 🌱 I’m currently learning Computational Linguistics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
