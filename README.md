@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yen
-- 👀 I’m interested in NLP, Speech Recognition, and 🐃
+- 👀 I’m interested in 🐃
 - 🌱 I’m currently learning Computational Linguistics
 
 <!---
